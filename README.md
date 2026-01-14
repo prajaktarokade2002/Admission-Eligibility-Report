@@ -1,5 +1,6 @@
-# Admission-Eligibility-Report
-The Admission Eligibility Report is a desktop-based application designed to automatically generate eligibility reports for students moving from one academic year/class to the next. The system reads academic credit information from university-issued PDF mark sheets and determines whether each student is eligible for admission to the next class 
+# Admission-Eligibility-Report Generator
+
+A Python-based desktop application that reads PDF mark sheets, extracts student credit data, and generates admission eligibility reports in Excel format. It helps academic departments automate eligibility checks for FY → SY and SY → TY admissions.
 <br>
 The main objective of the project is to reduce manual effort and eliminate calculation errors in eligibility verification by automating PDF data extraction and report generation.
 

@@ -46,21 +46,5 @@ Exam Period
 
 Proper headings, borders, and alignment are applied for professional presentation.
 
-<h3> User-Friendly GUI</h3>
-
-Built with Tkinter
-
-GUI options include:
-
-Select PDF file
-
-Choose Academic Year and Class
-
-Choose Exam Period (Mar-April / Oct-Nov)
-
-Select Eligibility Type (FY→SY or SY→TY)
-
-Set credit range values
-
-Export to chosen output foldert and eliminate calculation errors in eligibility verification by automating PDF data extraction and report generation.<img width="566" height="340" alt="image" src="https://github.com/user-attachments/assets/7ec92648-8d9a-48f7-837e-e79b9b9a8109" />
+<h3> User-Friendly GUI</h3>.<img width="566" height="340" alt="image" src="https://github.com/user-attachments/assets/7ec92648-8d9a-48f7-837e-e79b9b9a8109" />
 

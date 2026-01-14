@@ -4,7 +4,7 @@ The Admission Eligibility Report is a desktop-based application designed to auto
 The main objective of the project is to reduce manual effort and eliminate calculation errors in eligibility verification by automating PDF data extraction and report generation.
 
 <h1>Key Features</h1>
-✔ PDF Data Extraction
+<h3>PDF Data Extraction</h3>
 
 The system reads student information directly from PDF mark sheets using pdfplumber.
 
@@ -16,7 +16,7 @@ Credit Total (FY or SY)
 
 Exam Period
 
-✔ Eligibility Checking
+<h3> Eligibility Checking</h3>
 
 Admin defines credit limits (e.g., 22 to 44 credits).
 
@@ -32,7 +32,7 @@ Eligible, or
 
 Not Eligible
 
-✔ Excel Report Generation
+<h3> Excel Report Generation</h3>
 
 Generates a formatted Excel report containing:
 
@@ -46,7 +46,7 @@ Exam Period
 
 Proper headings, borders, and alignment are applied for professional presentation.
 
-✔ User-Friendly GUI
+<h3> User-Friendly GUI</h3>
 
 Built with Tkinter
 

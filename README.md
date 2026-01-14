@@ -52,5 +52,10 @@ Proper headings, borders, and alignment are applied for professional presentatio
 <br>
 
 <img width="401" height="152" alt="image" src="https://github.com/user-attachments/assets/c3fa4366-8f82-4cf2-b1dc-81e9c736126a" />
+<br>
+<br>
+ouput in excel file
+<img width="558" height="424" alt="image" src="https://github.com/user-attachments/assets/83106248-8d63-4889-99af-8d7c4d63bebc" />
+
 
 

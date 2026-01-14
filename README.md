@@ -62,4 +62,5 @@ Select Eligibility Type (FY→SY or SY→TY)
 
 Set credit range values
 
-Export to chosen output foldert and eliminate calculation errors in eligibility verification by automating PDF data extraction and report generation.
+Export to chosen output foldert and eliminate calculation errors in eligibility verification by automating PDF data extraction and report generation.<img width="566" height="340" alt="image" src="https://github.com/user-attachments/assets/7ec92648-8d9a-48f7-837e-e79b9b9a8109" />
+

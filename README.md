@@ -48,6 +48,7 @@ Proper headings, borders, and alignment are applied for professional presentatio
 
 <h1> User-Friendly GUI</h1>.
 <img width="566" height="340" alt="image" src="https://github.com/user-attachments/assets/7ec92648-8d9a-48f7-837e-e79b9b9a8109" />
+<br>
 <img width="401" height="152" alt="image" src="https://github.com/user-attachments/assets/c3fa4366-8f82-4cf2-b1dc-81e9c736126a" />
 
 
